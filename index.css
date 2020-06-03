@@ -1,0 +1,27 @@
+.brd2{
+    border: dotted red;
+        width: 70%;
+        min-height: 120px;
+        /* max-height: 250px;
+         overflow-y: hidden; */
+        width: 250px;
+        padding: 10px;
+        margin: 20px auto;
+        background: yellow;
+        padding: 10px;
+        border-width: 1.5px;
+}
+.brd3{
+    border: inset blue;
+        width: 70%;
+        min-height: 120px;
+        /* max-height: 250px;
+         overflow-y: hidden; */
+        width: 250px;
+        padding: 10px;
+        margin: 20px auto;
+        background: #52f7d4;
+        padding: 10px;
+        border-width: 15px;
+}
+.brd
